@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: How does anything work?
+title_image: /assets/bababy_sportgpikaconstruction.gif
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Hi I'm Mat and this a blog about computers and stuff.
